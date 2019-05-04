@@ -1,19 +1,20 @@
-﻿# [RTL8710BN](https://github.com/sochub/RTL8710BN) 
+﻿# [RTL8711AF](https://github.com/sochub/RTL8711AF) 
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
 #### 父级：[RTL](https://github.com/sochub/RTL)
-#### 归属：[Cortex M4](https://github.com/sochub/CM4) 
+#### 归属：[Cortex M3](https://github.com/sochub/CM3) 
 
-### [简介](https://github.com/sochub/RTL8710BN/wiki)
+### [简介](https://github.com/sochub/RTL8711AF/wiki)
 
-The Realtek RTL8711AM is a highly integrated single-chip with a low-power-consumption mechanism ideal for IoT (Internet of Things) applications. It combines an ARM®Cortex™-M3 MCU, WLAN MAC, a 1T1R capable WLAN baseband/RF and NFC in a single chip.
-
+a highly integrated single-chip with a low-power-consumption mechanism ideal for IoT (Internet of Things) applications. It combines an ARM®Cortex™-M3 MCU, WLAN MAC, a 1T1R capable WLAN baseband/RF and NFC in a single chip.
 
 ### CPU
+
 * ARM®Cortex™-M3 (up to 166MHz)
 * 2.4GHz 1T1R 802.11b/g/n up to 150Mbps; 20MHz and 40MHz
 
 ### Memory
+
 * 1MB embedded ROM
 * 512KB embedded RAM
 * 1MB embedded Flash
