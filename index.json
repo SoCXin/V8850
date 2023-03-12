@@ -1,0 +1,36 @@
+{
+    "type":"SoC",
+    "name":"V8850",
+    "title": "unisoc V8850 SoC",
+    "description":"unisoc Cortex-A7 Cat.1 SoC",
+    "Core": {
+        "CoreNum": 1,
+        "Core":"Cortex-A7",
+        "Fmax":624,
+        "DMIPS": 1250,
+        "CoreMark": 1680
+    },
+    "manufacturer": {
+        "vendor":"unisoc",
+        "homepage":"https://www.unisoc.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/V8850.git"
+    },
+    "version":"1.0.0",
+    "series":["V8850"],
+    "package":["QFN52"],
+    "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
+    "temp": [-40,85],
+    "volt": [1.8,3.3],
+    "ESD": {
+        "HBM": 2000,
+        "CDM": 500
+    },
+    "keywords": [
+        "Cortex-A7",
+        "unisoc","22nm",
+        "DAC","ADC","I2C","LVD","SPI","LPUSART"
+    ]
+}
